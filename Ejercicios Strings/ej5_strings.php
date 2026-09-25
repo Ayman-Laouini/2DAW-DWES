@@ -1,5 +1,5 @@
 <HTML>
-<HEAD><TITLE> EJ5 Strings - Procesamiento de una URL </TITLE></HEAD>
+<HEAD><TITLE> EJ5 Strings </TITLE></HEAD>
 <BODY>
 
 <?php
