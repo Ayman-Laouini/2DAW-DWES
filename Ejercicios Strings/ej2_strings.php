@@ -1,5 +1,5 @@
 <HTML>
-<HEAD><TITLE> EJ2 Strings - Analizador de nombre de usuario </TITLE></HEAD>
+<HEAD><TITLE> EJ2 Strings </TITLE></HEAD>
 <BODY>
 <?php
  $nombre = " aLBeRTo gaRCia loPEz ";
