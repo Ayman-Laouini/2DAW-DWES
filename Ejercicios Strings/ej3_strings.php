@@ -1,5 +1,5 @@
 <HTML>
-<HEAD><TITLE> EJ3 Strings </TITLE></HEAD>
+<HEAD><TITLE> EJ3 Strings  </TITLE></HEAD>
 <BODY>
 <?php
  $email = "alberto.garcia@educa.madrid.org";
