@@ -1,5 +1,5 @@
 <HTML>
-<HEAD><TITLE> EJ1 Strings</TITLE></HEAD>
+<HEAD><TITLE> EJ1 Strings </TITLE></HEAD>
 <BODY>
 <?php
 $ip="192.18.16.204";
