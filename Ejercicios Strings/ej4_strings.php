@@ -1,5 +1,5 @@
 <HTML>
-<HEAD><TITLE> EJ4 Strings - Generador de URL amigable (slug) </TITLE></HEAD>
+<HEAD><TITLE> EJ4 Strings  </TITLE></HEAD>
 <BODY>
 
 <?php
