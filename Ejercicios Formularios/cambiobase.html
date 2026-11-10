@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Conversor Numerico</title>
+</head>
+
+<body>
+
+    <h2>CONVERSOR NUMERICO</h2>
+
+    <form name='formulario' action='cambiobase.php' method='post'>
+
+        Numero Decimal:<br>
+        <input type='text' name='decimal' value='' size=15><br><br>
+
+        Convertir a:<br>
+        <input type='radio' name='sistema' value='Binario'>Binario<br>
+        <input type='radio' name='sistema' value='Octal'>Octal<br>
+        <input type='radio' name='sistema' value='Hexadecimal'>Hexadecimal<br>
+        <input type='radio' checked name='sistema' value='Todos'>Todos los sistemas<br><br>
+
+        <input type="submit" value="Enviar">
+        <input type="reset" value="Borrar">
+
+    </form>
+</body>
+
+</html>
